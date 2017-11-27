@@ -1,8 +1,8 @@
 package com.nimsoft.assertions;
 
 import com.testanywhere.core.utilities.logging.TextManager;
-import com.testanywhere.core.network.IP;
-import com.testanywhere.core.network.IPUtils;
+import com.testanywhere.core.network.classes.IP;
+import com.testanywhere.core.network.utilities.IPUtils;
 import org.junit.Assert;
 
 public class networkAssert extends Assert

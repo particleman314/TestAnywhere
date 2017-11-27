@@ -1,5 +1,7 @@
-package com.testanywhere.core.network;
+package com.testanywhere.core.network.classes;
 
+import com.testanywhere.core.network.IPConstants;
+import com.testanywhere.core.network.utilities.IPUtils;
 import com.testanywhere.core.utilities.class_support.BaseClass;
 import com.testanywhere.core.utilities.class_support.Cast;
 import com.testanywhere.core.utilities.classes.Pair;

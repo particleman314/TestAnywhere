@@ -1,5 +1,7 @@
-package com.testanywhere.core.network;
+package com.testanywhere.core.network.utilities;
 
+import com.testanywhere.core.network.IPConstants;
+import com.testanywhere.core.network.classes.IP;
 import com.testanywhere.core.utilities.logging.LogConfiguration;
 import com.testanywhere.core.utilities.logging.TextManager;
 import org.apache.commons.validator.routines.InetAddressValidator;

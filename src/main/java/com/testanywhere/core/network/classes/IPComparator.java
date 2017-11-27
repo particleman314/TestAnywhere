@@ -1,5 +1,6 @@
-package com.testanywhere.core.network;
+package com.testanywhere.core.network.classes;
 
+import com.testanywhere.core.network.IPConstants;
 import com.testanywhere.core.utilities.class_support.Cast;
 import com.testanywhere.core.classes.comparators.ComparatorConstants;
 import com.testanywhere.core.classes.comparators.GeneralizedComparator;

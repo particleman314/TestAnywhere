@@ -27,8 +27,8 @@ public class IPConstants extends ComparatorConstants implements ConstantsInterfa
     public static final String NOADDRESS = "0.0.0.0";
     public static final Pattern IPv4Pattern = Pattern.compile("^.[0-9]{1,3}/..[0-9]{1,3}/..[0-9]{1,3}/..[0-9]{1,3}");
 
-    protected static int SOCKET_TIMEOUT = 5000;
-    protected static int SOCKET_DEFAULT_BIND_PORT = 8080;
+    public static int SOCKET_TIMEOUT = 5000;
+    public static int SOCKET_DEFAULT_BIND_PORT = 8080;
 
     private static boolean isInitialized = false;
 
